@@ -1,4 +1,4 @@
-# 🚗 Uber Data Analysis (Python)
+# Uber Data Analysis (Python)
 
 ## 📌 Project Overview
 This project focuses on analyzing **Uber ride data** using **Python data analytics techniques** to uncover meaningful insights related to ride demand, vehicle usage, revenue trends, ratings, and booking status.  
