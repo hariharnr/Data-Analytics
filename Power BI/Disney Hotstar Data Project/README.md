@@ -1,4 +1,4 @@
-# 📦 Disney+ Hotstar Content Analytics Dashboard (Power BI)
+# Disney+ Hotstar Content Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview
 This project is a **Power BI dashboard** designed to analyze the content available on **Disney+ Hotstar**, focusing on **Movies and TV Shows** hosted on the platform.  
