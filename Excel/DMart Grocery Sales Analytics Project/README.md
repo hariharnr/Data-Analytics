@@ -1,4 +1,4 @@
-# 🛒 D-Mart Grocery Sales Analytics Dashboard (Excel)
+# D-Mart Grocery Sales Analytics Dashboard (Excel)
 
 ## 📌 Project Overview
 This project is an **end-to-end Excel dashboard** designed to analyze **grocery sales performance for D-Mart** across multiple cities and regions.  
